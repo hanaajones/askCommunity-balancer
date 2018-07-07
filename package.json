@@ -1,0 +1,13 @@
+{
+  "name": "loadbalancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "nginx": "0.0.0"
+  }
+}
